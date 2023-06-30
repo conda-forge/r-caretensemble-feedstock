@@ -1,11 +1,11 @@
-About r-caretensemble
-=====================
+About r-caretensemble-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-caretensemble-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/zachmayer/caretEnsemble
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-caretensemble-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions for creating ensembles of caret models: caretList() and caretStack().  caretList() is a convenience function for fitting multiple caret::train() models to the same dataset. caretStack() will make linear or non-linear combinations of these models, using a caret::train() model as a meta-model, and caretEnsemble() will make a robust linear combination of models using a GLM.
 
