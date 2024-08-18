@@ -26,22 +26,20 @@ requirements:
     - r-base
     - r-caret
     - r-data.table
-    - r-digest
     - r-ggplot2
-    - r-gridextra
     - r-lattice
+    - r-patchwork
     - r-pbapply
-    - r-plyr
+    - r-rlang
   run:
     - r-base
     - r-caret
     - r-data.table
-    - r-digest
     - r-ggplot2
-    - r-gridextra
     - r-lattice
+    - r-patchwork
     - r-pbapply
-    - r-plyr
+    - r-rlang
 
 test:
   commands:
